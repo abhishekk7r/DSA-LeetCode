@@ -1,8 +1,7 @@
 class Solution {
 public:
     int sum(int num1, int num2) {
-        int addSum = num1+num2;
-        return addSum;
+        return num1+num2;
         
     }
     
