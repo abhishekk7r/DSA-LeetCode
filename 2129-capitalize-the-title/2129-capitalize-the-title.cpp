@@ -42,27 +42,20 @@ public:
             }
             k++;
         }
-        
-        if((j-i)>2){
-             part = s.substr(i, (j-i));
+        if((j-i) > 2) 
+        {
+            part = s.substr(i, (j-i));
                part[0] = part[0] - 32; 
                str += part; 
-               
                 i= j+1;
                 j++;
                 part="";
-                        
+        } else {
+            part = s.substr(i, (j-i));
+            str += part;
 
-            
         }
-        else{
-            str += s.substr(i, (j-i));
-                
-                i= j+1;
-                j++;
-                part="";
-            
-        }
+        
         
         return str;
         
