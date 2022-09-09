@@ -37,13 +37,16 @@ public:
         
         //aage wali windows kelia
         while(i<s2.length()){
-            char newChar = s2[i];
-            int index = newChar - 'a';
-            count2[index]++;
+//             char newChar = s2[i];
+//             int index = newChar - 'a';
+//             count2[index]++;
             
-            char oldChar = s2[i-k];
-            index = oldChar - 'a';
-            count2[index]--;
+//             char oldChar = s2[i-k];
+//             index = oldChar - 'a';
+//             count2[index]--;
+            
+            count2[s2[i]-'a']++;
+            count2[s2[i-k] - 'a']--;
             
             i++;
             if (checkEqual(count1, count2))
