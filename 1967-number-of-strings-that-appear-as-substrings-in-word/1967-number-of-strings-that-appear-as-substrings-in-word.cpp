@@ -4,8 +4,8 @@ public:
         int count = 0;
         for(int i=0; i<patterns.size(); i++)
         {
-            string temp = patterns[i];
-            if(word.find(temp) < word.size())
+           // string temp = patterns[i];
+            if(word.find( patterns[i]) < word.size())
                 count++;
         }
         return count;
