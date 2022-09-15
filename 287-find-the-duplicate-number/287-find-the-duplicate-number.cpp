@@ -10,6 +10,7 @@ public:
             if(ans[i]>1)
                 a= i;
         }
+        
         return a;
     }
 };
