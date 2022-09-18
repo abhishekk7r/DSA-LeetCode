@@ -8,7 +8,7 @@ public:
         
         /*Phele ek vector me sara element pushback kar lo fir dusra loop 
         chala k temporary vector ka sara element new matrix me of given 
-        size me daaldo*/
+        size mee daaldo*/
         
         if(row*col==r*c){
         
