@@ -6,6 +6,10 @@ public:
         vector<vector<int>> ans(r,vector<int>(c));
         vector<int> temp;
         
+        /*Phele ek vector me sara element pushback kar lo fir dusra loop 
+        chala k temporary vector ka sara element new matrix me of given 
+        size me daaldo*/
+        
         if(row*col==r*c){
         
             for(int i=0; i<row; i++){
