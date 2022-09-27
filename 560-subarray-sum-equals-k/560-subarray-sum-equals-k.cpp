@@ -17,7 +17,7 @@ public:
             if(m.find(sum) != m.end()){
                 m[sum]++;
             }else{
-                m[sum]=1;
+                m[sum]++;
             }
             
         }
