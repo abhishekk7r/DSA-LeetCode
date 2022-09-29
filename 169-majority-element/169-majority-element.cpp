@@ -12,6 +12,9 @@ public:
         
         
         int maxVal = nums[0];
+        
+        //traverse the map and return the frequency of the 
+        //most occuring element
         for(auto i:m){
             if(i.second > m[maxVal])
                 maxVal = i.first;
