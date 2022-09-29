@@ -24,5 +24,10 @@ public:
         sort(nums.begin(), nums.end());
         int n = nums.size();
         return nums[n/2];
+        
+        /*given the fact that a majority element always exists
+        and its existence is always > n/2. 
+        -> We can say that after sorting the element will 
+        always be present at n/2 index.*/
     }
 };
