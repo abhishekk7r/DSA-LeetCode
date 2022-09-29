@@ -1,7 +1,7 @@
 class Solution {
 public:
     int majorityElement(vector<int>& nums) {
-        unordered_map<int, int> m;
+        /*unordered_map<int, int> m;
         int n = nums.size();
         
         //Put elements in hashmap
@@ -19,6 +19,10 @@ public:
             if(i.second > m[maxVal])
                 maxVal = i.first;
         }
-        return maxVal;
+        return maxVal;*/
+        
+        sort(nums.begin(), nums.end());
+        int n = nums.size();
+        return nums[n/2];
     }
 };
