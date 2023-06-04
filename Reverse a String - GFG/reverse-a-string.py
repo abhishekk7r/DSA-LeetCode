@@ -1,8 +1,8 @@
 #User function Template for python3
 
 def reverseWord(s):
-    temp = s[::-1]
-    return temp
+    #your code 
+    return s[::-1]
 
 
 #{ 
