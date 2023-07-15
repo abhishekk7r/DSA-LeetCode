@@ -8,28 +8,39 @@ using namespace std;
 //User function template for C++
 
 class Solution
-{   
-    void solve(stack<int>&s, int sizeOfStack, int count){
-        
-        //base case
-        if(count == sizeOfStack/2)
-        {
-            s.pop();
-            return;
-        }
-        
-        int num = s.top();
-        s.pop();
-        
-        solve(s, sizeOfStack, count+1);
-        s.push(num);
-    }
+{
     public:
     //Function to delete middle element of a stack.
     void deleteMid(stack<int>&s, int sizeOfStack)
     {
-        int count = 0;
-        solve(s, sizeOfStack, count);
+        // code here.
+        if(sizeOfStack < 2){
+            return;
+        }
+        
+        stack<int> temp;
+        int n = sizeOfStack - (sizeOfStack + 1) / 2;
+        
+        for(int i=0; i<n; i++){
+            temp.push(s.top());
+            s.pop();
+        }
+        // while(count >= half) {
+        //     if(count == half){
+        //         s.pop();
+        //     } else {
+        //         temp.push(s.top());
+        //         s.pop();
+        //         count--;
+        //     }
+        // }
+        
+        s.pop();
+        
+        while(!temp.empty()){
+            s.push(temp.top());
+            temp.pop();
+        }
     }
 };
 
