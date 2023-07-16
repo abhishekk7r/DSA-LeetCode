@@ -10,20 +10,19 @@ using namespace std;
 //Function to reverse the queue.
 class Solution
 {
+    void solve(queue<int> &q){
+        if(q.size() == 1) return;
+        
+        int temp = q.front();
+        q.pop();
+        solve(q);
+        q.push(temp);
+    }
     public:
     queue<int> rev(queue<int> q)
     {
-        stack<int> s;
-        while(!q.empty()){
-            s.push(q.front());
-            q.pop();
-        }
-        
-        while(!s.empty())
-        {
-            q.push(s.top());
-            s.pop();
-        }
+        // add code here.
+        solve(q);
         return q;
     }
 };
