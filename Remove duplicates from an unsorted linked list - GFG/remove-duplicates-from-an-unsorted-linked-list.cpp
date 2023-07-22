@@ -43,22 +43,28 @@ class Solution
     //Function to remove duplicates from unsorted linked list.
     Node * removeDuplicates( Node *head) 
     {
-        map<int, bool> m;
-        Node* temp = head;
-        Node* prev = NULL;
-        while(temp != NULL)
-        {
-            if(m[temp->data]!=true){
-                m[temp->data] = true;
-                prev = temp;
-                temp = temp -> next;
+        if(head == NULL) return head;
+        unordered_set<int> freq;
+        
+        Node* curr = head;
+        Node* prev = head;
+        
+        while(curr != NULL){
+            
+            //Case for duplicate elements
+            if(freq.find(curr->data) != freq.end()){
+                 prev->next = curr->next;
+                 curr = curr-> next;
             } else {
-                prev -> next = temp -> next;
-                temp = temp -> next;
+                freq.insert(curr->data);
+                prev = curr;
+                curr = curr -> next;
             }
         }
         
+        
         return head;
+        
         
     }
 };
