@@ -39,32 +39,27 @@ struct Node
 // Should return  right view of tree
 class Solution
 {
+    private:
+    void solve(Node* root, vector<int> &ans, int level, int &max_level){
+        if(root == NULL) return;
+        
+        if(max_level < level){
+            ans.push_back(root->data);
+            max_level = level;
+        }
+        
+        solve(root->right, ans, level+1, max_level);
+        solve(root->left, ans, level+1, max_level);
+    }
     public:
     //Function to return list containing elements of right view of binary tree.
-    void solve(Node* root, vector<int> &ans, int level)
-    {
-        if(root==NULL){
-            return;
-        }
-        
-        if(ans.size() == level){
-            ans.push_back(root->data);
-        }
-        
-        if(root->right){
-            solve(root->right, ans, level+1);
-        }
-        
-        if(root->left){
-            solve(root->left, ans, level+1);
-        }
-    }
-    
     vector<int> rightView(Node *root)
     {
+       int max_level = 0;
        vector<int> ans;
-       if(root == NULL) return ans;
-       solve(root, ans, 0);
+       ans.push_back(root->data);
+       int level = 0;
+       solve(root, ans, level, max_level);
        return ans;
     }
 };
