@@ -45,12 +45,10 @@ string isSubset(int a1[], int a2[], int n, int m) {
                 flag = true;
                 mp1[a2[i]]--;
             } else {
-                flag = false;
-                break;
+                return "No";
             }
         } else {
-            flag = false;
-            break;
+            return "No";
         }  
     }
     
