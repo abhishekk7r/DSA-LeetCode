@@ -27,4 +27,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 |  |
 | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+## Hash Table
+|  |
+| ------- |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+## Math
+|  |
+| ------- |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+## Counting
+|  |
+| ------- |
+| [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 <!---LeetCode Topics End-->
