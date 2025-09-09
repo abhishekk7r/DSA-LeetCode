@@ -18,11 +18,31 @@ class Solution {
     }
     public int lengthOfLIS(int[] nums) {
         int n = nums.length;
-        int [][]DP = new int[n + 1][n + 1];
+        /*int [][]DP = new int[n + 1][n + 1];
 
-        for(var i : DP) Arrays.fill(i, -1);
+        for(var i : DP) Arrays.fill(i, -1);*/
 
-        return solve(nums, -1, 0, DP);
+        //return solve(nums, -1, 0, DP);
 
+        //Binary Search Solution
+        List<Integer> temp = new ArrayList<>();
+        temp.add(nums[0]);
+        for(int i=1; i<n; i++){
+            
+            if(nums[i] > temp.get(temp.size() - 1)){
+                temp.add(nums[i]);
+            } else {
+                int lowerBoundIndex = Collections.binarySearch(temp, nums[i]);
+                 if (lowerBoundIndex < 0) {
+                    // If not found, binarySearch returns (-insertionPoint - 1)
+                    lowerBoundIndex = -(lowerBoundIndex + 1);
+                 }
+
+                 temp.set(lowerBoundIndex, nums[i]);
+            }
+        }
+
+        return temp.size();
     }
+
 }
