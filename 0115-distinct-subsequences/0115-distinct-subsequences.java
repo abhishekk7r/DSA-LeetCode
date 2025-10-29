@@ -20,10 +20,27 @@ class Solution {
         int n = s.length();
         int m = t.length();
 
-        int [][] memo = new int[n + 1][m + 1];
+        int [][] DP = new int[n + 1][m + 1];
 
-        for(int i = 0; i<n; i++) Arrays.fill(memo[i], -1);
+        // for(int i = 0; i<n; i++) Arrays.fill(DP[i], 0);
 
-        return f(n-1, m-1, s, t, memo);
+        for(int j=0; j<=n; j++) DP[j][0] = 1;
+
+        // return f(n-1, m-1, s, t, memo);
+
+        for(int i = 1; i<=n; i++){
+            for(int j = 1; j<=m; j++){
+                char a = s.charAt(i-1);
+                char b = t.charAt(j-1);
+
+                if(a == b){
+                    DP[i][j] = DP[i-1][j-1] + DP[i-1][j];
+                } else {
+                    DP[i][j] = DP[i-1][j];
+                }
+            }
+        }
+
+        return DP[n][m];
     }
 }
