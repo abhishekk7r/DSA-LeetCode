@@ -4,39 +4,48 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Breadth-First Search
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Graph
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Heap (Priority Queue)
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Hash Table
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Math
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Counting
-|  |
-| ------- |
+| Problem Name | Difficulty |
+| ------- | ------- |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 <!---LeetCode Topics End-->
