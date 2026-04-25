@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Breadth-First Search
@@ -20,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -65,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0076-minimum-window-substring](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
@@ -78,4 +81,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 <!---LeetCode Topics End-->
