@@ -18,9 +18,12 @@ public:
 
         int left = helper(root->left);
         int right = helper(root->right);
+
+        // Diameter through current node = left subtree height + right subtree height.
+        // Keep track of maximum diameter seen anywhere in the tree.
         diameter = max(diameter, left + right);
 
-        //We add one because the node itself will be counted in the diameter
+        //Why add 1? height = current node + taller subtree
         return 1 + max(left, right);
     }
     int diameterOfBinaryTree(TreeNode* root) {
