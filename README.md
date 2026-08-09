@@ -98,6 +98,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0146-lru-cache](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -191,4 +192,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0207-course-schedule/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
 <!---LeetCode Topics End-->
