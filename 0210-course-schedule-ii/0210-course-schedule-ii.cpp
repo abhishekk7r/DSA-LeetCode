@@ -1,45 +1,37 @@
 class Solution {
 public:
     vector<int> findOrder(int numCourses, vector<vector<int>>& prerequisites) {
-        vector<int> ans;
+        unordered_map<int, vector<int>> mp;
+        vector<int> indegree(numCourses);
 
-        //Edge Case Empty Array
-        // if(prerequisites.size() == 0) return ans;
-
-        vector<vector<int>> graph(numCourses);
-        vector<int> indegree(numCourses, 0);
-        //create adjacency list
-        
-        for(auto &i:prerequisites){
-            int u = i[0];
-            int v = i[1];
-
-            graph[v].push_back(u);
-            indegree[u]++; //[2, 1, 1, 0];
+        for(auto i:prerequisites){
+            mp[i[1]].push_back(i[0]);
+            indegree[i[0]]++;
         }
 
         queue<int> q;
-
-        //push nodes having indegree is 0
         for(int i=0; i<numCourses; i++){
             if(indegree[i] == 0) q.push(i);
-        } 
+        }
 
+        vector<int> ans;
         while(!q.empty()){
             int node = q.front();
             q.pop();
-            ans.push_back(node);
 
-            for(auto &i:graph[node]){
+            for(auto &i:mp[node]){
                 indegree[i]--;
+
                 if(indegree[i] == 0){
                     q.push(i);
                 }
             }
 
+            ans.push_back(node);
         }
 
-        if(numCourses != ans.size()) return {};
+        if(ans.size() != numCourses) return {};
+        
         return ans;
     }
 };
