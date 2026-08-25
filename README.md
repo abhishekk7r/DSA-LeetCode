@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -28,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
@@ -45,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Shortest Path
@@ -160,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
