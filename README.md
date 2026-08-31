@@ -16,6 +16,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -229,4 +230,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 <!---LeetCode Topics End-->
