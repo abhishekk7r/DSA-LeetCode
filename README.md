@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0056-merge-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0078-subsets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0130-surrounded-regions](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -236,4 +237,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0078-subsets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
