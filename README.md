@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -76,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0904-fruit-into-baskets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -115,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
