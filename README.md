@@ -117,6 +117,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
+| [0394-decode-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Sliding Window
@@ -157,6 +158,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0155-min-stack](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0155-min-stack/) | Medium |
+| [0394-decode-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -241,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0394-decode-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
