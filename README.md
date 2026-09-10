@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0739-daily-temperatures](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -49,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
 | Problem Name | Difficulty |
@@ -74,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -87,6 +90,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Two Pointers
@@ -102,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0056-merge-intervals/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -266,4 +271,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0572-subtree-of-another-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0572-subtree-of-another-tree/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
