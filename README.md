@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0130-surrounded-regions](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0213-house-robber-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
@@ -263,6 +264,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0213-house-robber-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
