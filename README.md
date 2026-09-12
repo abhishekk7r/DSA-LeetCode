@@ -17,6 +17,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0213-house-robber-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -42,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
+| [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
 | [0198-house-robber](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
+| [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0337-house-robber-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 ## Backtracking
@@ -304,4 +307,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0337-house-robber-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0337-house-robber-iii/) | Medium |
+## Knapsack Problem
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
+## Complete Knapsack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 <!---LeetCode Topics End-->
