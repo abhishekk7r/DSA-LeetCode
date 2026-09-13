@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
@@ -46,6 +47,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0934-shortest-bridge](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0934-shortest-bridge/) | Medium |
@@ -69,6 +71,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0079-word-search](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
 | [0130-surrounded-regions](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0934-shortest-bridge](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0934-shortest-bridge/) | Medium |
@@ -207,6 +210,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0210-course-schedule-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
 | [0226-invert-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0226-invert-binary-tree/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -240,11 +244,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0133-clone-graph](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0207-course-schedule](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0210-course-schedule-ii/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -255,6 +261,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -279,6 +286,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0337-house-robber-iii/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -328,4 +336,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1143-longest-common-subsequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 <!---LeetCode Topics End-->
