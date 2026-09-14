@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0417-pacific-atlantic-water-flow](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0417-pacific-atlantic-water-flow/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
 | [0735-asteroid-collision](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0739-daily-temperatures/) | Medium |
@@ -123,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -278,6 +280,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
@@ -288,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 | [0337-house-robber-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0337-house-robber-iii/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Backtracking
