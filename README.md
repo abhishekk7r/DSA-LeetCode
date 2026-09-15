@@ -112,6 +112,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0086-partition-list](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0021-merge-two-sorted-lists/) | Easy |
+| [0086-partition-list](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
 ## Design
