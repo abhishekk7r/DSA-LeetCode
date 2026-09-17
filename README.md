@@ -41,6 +41,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0127-word-ladder](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0130-surrounded-regions](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0133-clone-graph](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -91,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
+| [0127-word-ladder](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0133-clone-graph](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -136,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0020-valid-parentheses](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0076-minimum-window-substring](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0079-word-search](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
+| [0127-word-ladder](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0394-decode-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -349,4 +352,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
+## Bidirectional Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0127-word-ladder](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0127-word-ladder/) | Hard |
 <!---LeetCode Topics End-->
