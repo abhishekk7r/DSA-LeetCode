@@ -9,10 +9,10 @@ public:
 
         if(sum > target || index == candidates.size()) return;
         path.push_back(candidates[index]);
-        dfs(index, sum + candidates[index], target, ans, path, candidates);
+        dfs(index, sum + candidates[index], target, ans, path, candidates); //Take the sum
 
         path.pop_back();
-        dfs(index + 1, sum, target, ans, path, candidates);
+        dfs(index + 1, sum, target, ans, path, candidates); //Skip means do not take the sum
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
