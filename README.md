@@ -107,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Counting
 | Problem Name | Difficulty |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0198-house-robber](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0322-coin-change](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0322-coin-change/) | Medium |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0329-longest-increasing-path-in-a-matrix](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0329-longest-increasing-path-in-a-matrix/) | Hard |
 ## Bidirectional Search
 | Problem Name | Difficulty |
