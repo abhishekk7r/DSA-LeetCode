@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
+| [3693-climbing-stairs-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,6 +309,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0435-non-overlapping-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0983-minimum-cost-for-tickets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0983-minimum-cost-for-tickets/) | Medium |
 | [1143-longest-common-subsequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
+| [3693-climbing-stairs-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/3693-climbing-stairs-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
