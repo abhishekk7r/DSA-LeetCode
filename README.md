@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0079-word-search/) | Medium |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0198-house-robber](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
@@ -95,6 +96,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0076-minimum-window-substring](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0127-word-ladder](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0127-word-ladder/) | Hard |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0133-clone-graph](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0133-clone-graph/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
@@ -268,6 +270,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0128-longest-consecutive-sequence/) | Medium |
 | [0130-surrounded-regions](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0130-surrounded-regions/) | Medium |
 | [0200-number-of-islands](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0695-max-area-of-island](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0695-max-area-of-island/) | Medium |
