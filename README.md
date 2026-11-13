@@ -35,6 +35,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0994-rotting-oranges](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1094-car-pooling](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2260-minimum-consecutive-cards-to-pick-up](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2260-minimum-consecutive-cards-to-pick-up/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
+| [1094-car-pooling](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0735-asteroid-collision/) | Medium |
+| [1094-car-pooling](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1094-car-pooling/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
+| [1094-car-pooling](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1094-car-pooling/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +304,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [1094-car-pooling](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1094-car-pooling/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
