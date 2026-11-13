@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1642-furthest-building-you-can-reach](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1642-furthest-building-you-can-reach/) | Medium |
 | [2375-minimum-obstacle-removal-to-reach-corner](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/2375-minimum-obstacle-removal-to-reach-corner) |
 ## Matrix
@@ -104,6 +105,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -118,6 +120,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1844-maximum-number-of-balls-in-a-box](https://github.com/abhishekk7r/DSA-LeetCode/tree/master/1844-maximum-number-of-balls-in-a-box) |
 ## Two Pointers
@@ -139,6 +142,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0442-find-all-duplicates-in-an-array](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0442-find-all-duplicates-in-an-array/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0846-hand-of-straights](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0846-hand-of-straights/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -151,6 +155,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0127-word-ladder](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0127-word-ladder/) | Hard |
 | [0394-decode-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0394-decode-string/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 ## Sliding Window
@@ -343,6 +348,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0347-top-k-frequent-elements/) | Medium |
+| [0451-sort-characters-by-frequency](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
