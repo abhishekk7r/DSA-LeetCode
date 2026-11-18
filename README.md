@@ -131,6 +131,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0005-longest-palindromic-substring](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0086-partition-list](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0086-partition-list/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -180,6 +181,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0092-reverse-linked-list-ii](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0092-reverse-linked-list-ii/) | Medium |
 | [0141-linked-list-cycle](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0146-lru-cache](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/abhishekk7r/DSA-LeetCode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
